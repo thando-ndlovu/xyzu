@@ -35,7 +35,7 @@
 
 >MIT License
 >
->Copyright (c) 2023 thando-ndlovu
+>Copyright (c) 2023 Thando Ndlovu
 >
 >Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
