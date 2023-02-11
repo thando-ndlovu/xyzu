@@ -1,16 +1,17 @@
 ### Xyzu Music Player
  A simple music player made with Xamarin.Android
 
-#
+<p float="left">
+    <img src="assets/Screenshot_20230207-025928.png" height="360" />
+    <img src="assets/Screenshot_20230206-051041.png" height="360" />
+    <img src="assets/Screenshot_20230206-051219.png" height="360" />
+</p>
 
-<img src="assets/Screenshot_20230207-025928.png" height="360">
-<img src="assets/Screenshot_20230206-051509.png" height="360">
-
-<img src="assets/Screenshot_20230206-051041.png" height="360">
-<img src="assets/Screenshot_20230206-051219.png" height="360">
-
-<img src="assets/Screenshot_20230208-040450.png" height="360">
-<img src="assets/Screenshot_20230208-040602.png" height="360">
+<p float="left">
+    <img src="assets/Screenshot_20230206-051509.png" height="360" />
+    <img src="assets/Screenshot_20230208-040450.png" height="360" />
+    <img src="assets/Screenshot_20230208-040602.png" height="360" />
+</p>
 
 #
 
