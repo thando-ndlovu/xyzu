@@ -1,0 +1,108 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Xyzu/1.0.0": {
+        "dependencies": {
+          "ID3": "0.6.0",
+          "Newtonsoft.Json": "13.0.1",
+          "System.Linq.Async": "5.0.0",
+          "TagLibSharp": "2.2.0"
+        },
+        "runtime": {
+          "Xyzu.dll": {}
+        }
+      },
+      "ID3/0.6.0": {
+        "dependencies": {
+          "JetBrains.Annotations": "2018.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Id3.Net.dll": {
+            "assemblyVersion": "0.6.0.0",
+            "fileVersion": "0.6.0.0"
+          }
+        }
+      },
+      "JetBrains.Annotations/2018.3.0": {
+        "runtime": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {
+            "assemblyVersion": "2018.3.0.0",
+            "fileVersion": "2018.3.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "System.Linq.Async/5.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/System.Linq.Async.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.1"
+          }
+        }
+      },
+      "TagLibSharp/2.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/TagLibSharp.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Xyzu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ID3/0.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7oHf3mjkeJp5xHAOqE0y9xxnFbJH7VifL1EHjRNHY6LiC2LeMERTTmEQBJXaqrIJ5KgehUkY5XhuskaPoanUqA==",
+      "path": "id3/0.6.0",
+      "hashPath": "id3.0.6.0.nupkg.sha512"
+    },
+    "JetBrains.Annotations/2018.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Hbt5edAd7OfnYwsRayYguECzIJ4FUWDGjeEHsmxIgEpBbqZglhpxqjPWnWN/pEQM1HFGojMrR9dsywmC8pPTeQ==",
+      "path": "jetbrains.annotations/2018.3.0",
+      "hashPath": "jetbrains.annotations.2018.3.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "System.Linq.Async/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cPtIuuH8TIjVHSi2ewwReWGW1PfChPE0LxPIDlfwVcLuTM9GANFTXiMB7k3aC4sk3f0cQU25LNKzx+jZMxijqw==",
+      "path": "system.linq.async/5.0.0",
+      "hashPath": "system.linq.async.5.0.0.nupkg.sha512"
+    },
+    "TagLibSharp/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X8UOWeaJgHGrN3xilg3O0lqowhUSwNEiGrE8ITDd1rCn14LqGCWKgn5GX++SW4vuXBMne8+pyic6aUvOFQMRlA==",
+      "path": "taglibsharp/2.2.0",
+      "hashPath": "taglibsharp.2.2.0.nupkg.sha512"
+    }
+  }
+}

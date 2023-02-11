@@ -1,0 +1,10 @@
+C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu\bin\Release\netstandard2.1\Xyzu.deps.json
+C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu\bin\Release\netstandard2.1\Xyzu.dll
+C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu\bin\Release\netstandard2.1\Xyzu.pdb
+C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu\obj\Release\netstandard2.1\Xyzu.csproj.AssemblyReference.cache
+C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu\obj\Release\netstandard2.1\Xyzu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu\obj\Release\netstandard2.1\Xyzu.AssemblyInfoInputs.cache
+C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu\obj\Release\netstandard2.1\Xyzu.AssemblyInfo.cs
+C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu\obj\Release\netstandard2.1\Xyzu.csproj.CoreCompileInputs.cache
+C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu\obj\Release\netstandard2.1\Xyzu.dll
+C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu\obj\Release\netstandard2.1\Xyzu.pdb

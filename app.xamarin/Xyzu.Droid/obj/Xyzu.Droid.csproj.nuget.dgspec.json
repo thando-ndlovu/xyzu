@@ -1,0 +1,330 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu.Droid\\Xyzu.Droid.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu.Droid\\Xyzu.Droid.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu.Droid\\Xyzu.Droid.csproj",
+        "projectName": "Xyzu.Droid",
+        "projectPath": "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu.Droid\\Xyzu.Droid.csproj",
+        "packagesPath": "C:\\Users\\Thando Ndlovu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu.Droid\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Thando Ndlovu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "C:\\Users\\Thando Ndlovu\\.nuget\\packages": {},
+          "C:\\Users\\Thando Ndlovu\\Programming\\Packages\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {
+              "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu.Exoplayer\\Xyzu.Player.csproj": {
+                "projectPath": "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu.Exoplayer\\Xyzu.Player.csproj"
+              },
+              "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu.Extensions\\Xyzu.Extensions.csproj": {
+                "projectPath": "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu.Extensions\\Xyzu.Extensions.csproj"
+              },
+              "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu\\Xyzu.csproj": {
+                "projectPath": "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu\\Xyzu.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "Karamunting.Android.EmadAbdalRahman.MusicBar": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Karamunting.Android.JaredRummler.ColorPicker": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Karamunting.Android.Wasabeef.PicassoTransformations": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Kdd.Glide.AppModuleInjector": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Square.Picasso": {
+              "target": "Package",
+              "version": "[2.71828.0, )"
+            },
+            "Xam.Plugins.AndroidX.SlidingUpPanel": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Xamarin.Android.Glide": {
+              "target": "Package",
+              "version": "[4.13.2.2, )"
+            },
+            "Xamarin.Android.Glide.Transformations": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.5.1.1, )"
+            },
+            "Xamarin.AndroidX.Palette": {
+              "target": "Package",
+              "version": "[1.0.0.15, )"
+            },
+            "Xamarin.AndroidX.Preference": {
+              "target": "Package",
+              "version": "[1.2.0.3, )"
+            },
+            "Xamarin.AndroidX.SwipeRefreshLayout": {
+              "target": "Package",
+              "version": "[1.1.0.10, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.3, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.7.0.1, )"
+            },
+            "Xamarin.Kotlin.StdLib.Jdk8": {
+              "target": "Package",
+              "version": "[1.8.0.1, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu.Exoplayer\\Xyzu.Player.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu.Exoplayer\\Xyzu.Player.csproj",
+        "projectName": "Xyzu.Exoplayer",
+        "projectPath": "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu.Exoplayer\\Xyzu.Player.csproj",
+        "packagesPath": "C:\\Users\\Thando Ndlovu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu.Exoplayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Thando Ndlovu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "C:\\Users\\Thando Ndlovu\\.nuget\\packages": {},
+          "C:\\Users\\Thando Ndlovu\\Programming\\Packages\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {
+              "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu.Extensions\\Xyzu.Extensions.csproj": {
+                "projectPath": "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu.Extensions\\Xyzu.Extensions.csproj"
+              },
+              "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu\\Xyzu.csproj": {
+                "projectPath": "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu\\Xyzu.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "Xam.Plugins.Android.ExoPlayer": {
+              "target": "Package",
+              "version": "[2.11.8, )"
+            },
+            "Xam.Plugins.Android.ExoPlayer.MediaSession": {
+              "target": "Package",
+              "version": "[2.11.8, )"
+            },
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.3.1.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu.Extensions\\Xyzu.Extensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu.Extensions\\Xyzu.Extensions.csproj",
+        "projectName": "Xyzu.Extensions",
+        "projectPath": "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu.Extensions\\Xyzu.Extensions.csproj",
+        "packagesPath": "C:\\Users\\Thando Ndlovu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu.Extensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Thando Ndlovu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "C:\\Users\\Thando Ndlovu\\.nuget\\packages": {},
+          "C:\\Users\\Thando Ndlovu\\Programming\\Packages\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {
+              "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu\\Xyzu.csproj": {
+                "projectPath": "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu\\Xyzu.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "Xamarin.AndroidX.Activity": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.3.1.1, )"
+            },
+            "Xamarin.AndroidX.ConstraintLayout": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Xamarin.AndroidX.Palette": {
+              "target": "Package",
+              "version": "[1.0.0.15, )"
+            },
+            "Xamarin.AndroidX.RecyclerView": {
+              "target": "Package",
+              "version": "[1.2.1.9, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu\\Xyzu.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu\\Xyzu.csproj",
+        "projectName": "Xyzu",
+        "projectPath": "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu\\Xyzu.csproj",
+        "packagesPath": "C:\\Users\\Thando Ndlovu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thando Ndlovu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "C:\\Users\\Thando Ndlovu\\.nuget\\packages": {},
+          "C:\\Users\\Thando Ndlovu\\Programming\\Packages\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "ID3": {
+              "target": "Package",
+              "version": "[0.6.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Linq.Async": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "TagLibSharp": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

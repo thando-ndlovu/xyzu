@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "xwYJu6mOlOJUKM0keXRZTxYQtz5fxy/3U7i6LUUVvmW8BAlyahR9+xX97RcRLWIyoSHdgE2jEn16RSStZOqrTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thando Ndlovu\\Desktop\\New folder\\New folder\\app.xamarin\\Xyzu\\Xyzu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thando Ndlovu\\.nuget\\packages\\id3\\0.6.0\\id3.0.6.0.nupkg.sha512",
+    "C:\\Users\\Thando Ndlovu\\.nuget\\packages\\jetbrains.annotations\\2018.3.0\\jetbrains.annotations.2018.3.0.nupkg.sha512",
+    "C:\\Users\\Thando Ndlovu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Thando Ndlovu\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\Thando Ndlovu\\.nuget\\packages\\taglibsharp\\2.2.0\\taglibsharp.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

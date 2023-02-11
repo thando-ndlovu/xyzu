@@ -1,0 +1,1645 @@
+@string/appbar_scrolling_view_behavior;obj\Debug\120\res\layout\xyzu_layout_library_drawerlayout.xml
+@string/appbar_scrolling_view_behavior;obj\Debug\120\res\layout\xyzu_layout_library_tablayout.xml
+{urn:oasis:names:tc:xliff:document:1.2}g;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values\values.xml
+{urn:oasis:names:tc:xliff:document:1.2}g;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values\values.xml
+adaptive-icon;obj\Debug\120\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Debug\120\res\mipmap-anydpi-v26\ic_launcher_round.xml
+androidx.appcompat.widget.AppCompatButton;obj\Debug\120\res\layout\xyzu_view_misc_dialog.xml
+androidx.appcompat.widget.AppCompatButton;obj\Debug\120\res\layout\xyzu_view_setting_directoryitem.xml
+androidx.appcompat.widget.AppCompatCheckBox;obj\Debug\120\res\layout\xyzu_preference_checkboxpreference.xml
+androidx.appcompat.widget.AppCompatCheckBox;obj\Debug\120\res\layout\xyzu_view_option_librarylist.xml
+androidx.appcompat.widget.AppCompatCheckBox;obj\Debug\120\res\layout\xyzu_view_option_menu.xml
+androidx.appcompat.widget.AppCompatCheckBox;obj\Debug\120\res\layout\xyzu_view_setting_directoryitem.xml
+androidx.appcompat.widget.AppCompatEditDate;obj\Debug\120\res\layout\xyzu_view_infoedit_album.xml
+androidx.appcompat.widget.AppCompatEditDate;obj\Debug\120\res\layout\xyzu_view_infoedit_song.xml
+androidx.appcompat.widget.AppCompatEditText;obj\Debug\120\res\layout\xyzu_view_infoedit_album.xml
+androidx.appcompat.widget.AppCompatEditText;obj\Debug\120\res\layout\xyzu_view_infoedit_artist.xml
+androidx.appcompat.widget.AppCompatEditText;obj\Debug\120\res\layout\xyzu_view_infoedit_genre.xml
+androidx.appcompat.widget.AppCompatEditText;obj\Debug\120\res\layout\xyzu_view_infoedit_playlist.xml
+androidx.appcompat.widget.AppCompatEditText;obj\Debug\120\res\layout\xyzu_view_infoedit_song.xml
+androidx.appcompat.widget.AppCompatEditText;obj\Debug\120\res\layout\xyzu_view_infoedit_song_lyrics.xml
+androidx.appcompat.widget.AppCompatEditText;obj\Debug\120\res\layout\xyzu_view_option_createandview.xml
+androidx.appcompat.widget.AppCompatImageButton;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_libraryitems.xml
+androidx.appcompat.widget.AppCompatImageButton;obj\Debug\120\res\layout\xyzu_view_nowplaying.xml
+androidx.appcompat.widget.AppCompatImageButton;obj\Debug\120\res\layout\xyzu_view_nowplaying_collapsed.xml
+androidx.appcompat.widget.AppCompatImageButton;obj\Debug\120\res\layout\xyzu_view_nowplaying_expanded.xml
+androidx.appcompat.widget.AppCompatImageButton;obj\Debug\120\res\layout\xyzu_view_option_createandview.xml
+androidx.appcompat.widget.AppCompatImageButton;obj\Debug\120\res\layout\xyzu_view_option_menu.xml
+androidx.appcompat.widget.AppCompatImageButton;obj\Debug\120\res\layout\xyzu_view_toolbar_search.xml
+androidx.appcompat.widget.AppCompatImageView;obj\Debug\120\res\layout\xyzu_view_info_album.xml
+androidx.appcompat.widget.AppCompatImageView;obj\Debug\120\res\layout\xyzu_view_info_artist.xml
+androidx.appcompat.widget.AppCompatImageView;obj\Debug\120\res\layout\xyzu_view_info_song.xml
+androidx.appcompat.widget.AppCompatImageView;obj\Debug\120\res\layout\xyzu_view_infoedit_album.xml
+androidx.appcompat.widget.AppCompatImageView;obj\Debug\120\res\layout\xyzu_view_infoedit_artist.xml
+androidx.appcompat.widget.AppCompatImageView;obj\Debug\120\res\layout\xyzu_view_infoedit_song.xml
+androidx.appcompat.widget.AppCompatImageView;obj\Debug\120\res\layout\xyzu_view_libraryitem_grid_large.xml
+androidx.appcompat.widget.AppCompatImageView;obj\Debug\120\res\layout\xyzu_view_libraryitem_grid_medium.xml
+androidx.appcompat.widget.AppCompatImageView;obj\Debug\120\res\layout\xyzu_view_libraryitem_grid_small.xml
+androidx.appcompat.widget.AppCompatImageView;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_album.xml
+androidx.appcompat.widget.AppCompatImageView;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_artist.xml
+androidx.appcompat.widget.AppCompatImageView;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_genre.xml
+androidx.appcompat.widget.AppCompatImageView;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_playlist.xml
+androidx.appcompat.widget.AppCompatImageView;obj\Debug\120\res\layout\xyzu_view_libraryitem_list_large.xml
+androidx.appcompat.widget.AppCompatImageView;obj\Debug\120\res\layout\xyzu_view_libraryitem_list_medium.xml
+androidx.appcompat.widget.AppCompatImageView;obj\Debug\120\res\layout\xyzu_view_libraryitem_list_small.xml
+androidx.appcompat.widget.AppCompatImageView;obj\Debug\120\res\layout\xyzu_view_misc_navigationheader.xml
+androidx.appcompat.widget.AppCompatImageView;obj\Debug\120\res\layout\xyzu_view_nowplaying.xml
+androidx.appcompat.widget.AppCompatImageView;obj\Debug\120\res\layout\xyzu_view_nowplaying_collapsed.xml
+androidx.appcompat.widget.AppCompatImageView;obj\Debug\120\res\layout\xyzu_view_nowplaying_expanded.xml
+androidx.appcompat.widget.AppCompatSeekBar;obj\Debug\120\res\layout\xyzu_preference_seekbarpreference.xml
+androidx.appcompat.widget.AppCompatSeekBar;obj\Debug\120\res\layout\xyzu_preference_seekbarverticalpreference.xml
+androidx.appcompat.widget.AppCompatSeekBar;obj\Debug\120\res\layout\xyzu_view_setting_audioband.xml
+androidx.appcompat.widget.AppCompatSpinner;obj\Debug\120\res\layout\xyzu_preference_dropdownpreference.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_preference_preference.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_preference_seekbarpreference.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_preference_seekbarverticalpreference.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_info_album.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_info_artist.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_info_genre.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_info_playlist.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_info_song.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_info_song_lyrics.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_infoedit_album.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_infoedit_artist.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_infoedit_genre.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_infoedit_playlist.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_infoedit_song.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_infoedit_song_lyrics.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_libraryitem_grid_large.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_libraryitem_grid_medium.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_libraryitem_grid_small.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_album.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_artist.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_genre.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_libraryitems.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_playlist.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_libraryitem_list_large.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_libraryitem_list_medium.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_libraryitem_list_small.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_misc_dialog.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_nowplaying.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_nowplaying_collapsed.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_nowplaying_expanded.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_option_createandview.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_option_librarylist.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_option_menu.xml
+androidx.appcompat.widget.AppCompatTextView;obj\Debug\120\res\layout\xyzu_view_setting_audioband.xml
+androidx.appcompat.widget.ContentFrameLayout;obj\Debug\120\res\layout\xyzu_layout_library_drawerlayout.xml
+androidx.appcompat.widget.ContentFrameLayout;obj\Debug\120\res\layout\xyzu_layout_library_tablayout.xml
+androidx.appcompat.widget.ContentFrameLayout;obj\Debug\120\res\layout\xyzu_layout_settings.xml
+androidx.appcompat.widget.ContentFrameLayout;obj\Debug\120\res\layout\xyzu_preference_preference.xml
+androidx.appcompat.widget.ContentFrameLayout;obj\Debug\120\res\layout\xyzu_preference_seekbarverticalpreference.xml
+androidx.appcompat.widget.ContentFrameLayout;obj\Debug\120\res\layout\xyzu_preference_viewpreference.xml
+androidx.appcompat.widget.ContentFrameLayout;obj\Debug\120\res\layout\xyzu_view_setting_audioband.xml
+androidx.appcompat.widget.LinearLayoutCompat;obj\Debug\120\res\layout\xyzu_layout_settings.xml
+androidx.appcompat.widget.LinearLayoutCompat;obj\Debug\120\res\layout\xyzu_view_misc_dialog.xml
+androidx.appcompat.widget.LinearLayoutCompat;obj\Debug\120\res\layout\xyzu_view_toolbar_search.xml
+androidx.appcompat.widget.SearchView;obj\Debug\120\res\layout\xyzu_view_toolbar_search.xml
+androidx.appcompat.widget.SwitchCompat;obj\Debug\120\res\layout\xyzu_preference_switchpreferencecompat.xml
+androidx.appcompat.widget.Toolbar;obj\Debug\120\res\layout\xyzu_layout_settings.xml
+androidx.appcompat.widget.Toolbar;obj\Debug\120\res\layout\xyzu_view_toolbar_drawerlayout.xml
+androidx.appcompat.widget.Toolbar;obj\Debug\120\res\layout\xyzu_view_toolbar_settings.xml
+androidx.appcompat.widget.Toolbar;obj\Debug\120\res\layout\xyzu_view_toolbar_tablayout.xml
+androidx.constraintlayout.widget.Barrier;obj\Debug\120\res\layout\xyzu_view_info_album.xml
+androidx.constraintlayout.widget.Barrier;obj\Debug\120\res\layout\xyzu_view_info_artist.xml
+androidx.constraintlayout.widget.Barrier;obj\Debug\120\res\layout\xyzu_view_info_genre.xml
+androidx.constraintlayout.widget.Barrier;obj\Debug\120\res\layout\xyzu_view_info_playlist.xml
+androidx.constraintlayout.widget.Barrier;obj\Debug\120\res\layout\xyzu_view_info_song.xml
+androidx.constraintlayout.widget.Barrier;obj\Debug\120\res\layout\xyzu_view_info_song_lyrics.xml
+androidx.constraintlayout.widget.Barrier;obj\Debug\120\res\layout\xyzu_view_infoedit_album.xml
+androidx.constraintlayout.widget.Barrier;obj\Debug\120\res\layout\xyzu_view_infoedit_artist.xml
+androidx.constraintlayout.widget.Barrier;obj\Debug\120\res\layout\xyzu_view_infoedit_genre.xml
+androidx.constraintlayout.widget.Barrier;obj\Debug\120\res\layout\xyzu_view_infoedit_playlist.xml
+androidx.constraintlayout.widget.Barrier;obj\Debug\120\res\layout\xyzu_view_infoedit_song.xml
+androidx.constraintlayout.widget.Barrier;obj\Debug\120\res\layout\xyzu_view_infoedit_song_lyrics.xml
+androidx.constraintlayout.widget.Barrier;obj\Debug\120\res\layout\xyzu_view_misc_dialog.xml
+androidx.constraintlayout.widget.Barrier;obj\Debug\120\res\layout\xyzu_view_option_librarylist.xml
+androidx.constraintlayout.widget.Barrier;obj\Debug\120\res\layout\xyzu_view_option_menu.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\120\res\layout\xyzu_layout_library_drawerlayout.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\120\res\layout\xyzu_layout_library_tablayout.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\120\res\layout\xyzu_preference_checkboxpreference.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\120\res\layout\xyzu_preference_dropdownpreference.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\120\res\layout\xyzu_preference_preference.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\120\res\layout\xyzu_preference_preferencescreen.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\120\res\layout\xyzu_preference_seekbarpreference.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\120\res\layout\xyzu_preference_seekbarverticalpreference.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\120\res\layout\xyzu_preference_switchpreferencecompat.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\120\res\layout\xyzu_preference_viewpreference.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\120\res\layout\xyzu_view_misc_navigationheader.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;obj\Debug\120\res\layout\xyzu_layout_library_drawerlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;obj\Debug\120\res\layout\xyzu_layout_library_tablayout.xml
+androidx.core.widget.NestedScrollView;obj\Debug\120\res\layout\xyzu_view_misc_dialog.xml
+androidx.drawerlayout.widget.DrawerLayout;obj\Debug\120\res\layout\xyzu_layout_library_drawerlayout.xml
+androidx.preference.internal.PreferenceImageView;obj\Debug\120\res\layout\xyzu_preference_preference.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_about.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_audio.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_audio_bassboost.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_audio_environmentalreverb.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_audio_equaliser.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_audio_loudnessenhancer.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_files.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_lockscreen.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_notification.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_system.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_userinterface.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_userinterface_languages.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_userinterface_library.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_userinterface_library_album.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_userinterface_library_albums.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_userinterface_library_artist.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_userinterface_library_artists.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_userinterface_library_genre.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_userinterface_library_genres.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_userinterface_library_playlist.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_userinterface_library_playlists.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_userinterface_library_queue.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_userinterface_library_search.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_userinterface_library_songs.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_userinterface_nowplaying.xml
+androidx.preference.PreferenceScreen;obj\Debug\120\res\xml\settings_userinterface_themes.xml
+androidx.viewpager2.widget.ViewPager2;obj\Debug\120\res\layout\xyzu_layout_library_tablayout.xml
+attr;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values\values.xml
+attr;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values\values.xml
+attr;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\85\jl\res\values\values.xml
+attr;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values\values.xml
+attr;obj\Debug\120\res\values\attrs.xml
+background;obj\Debug\120\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Debug\120\res\mipmap-anydpi-v26\ic_launcher_round.xml
+cache-path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\86\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+cache-path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\52\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+cache-path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Extensions\obj\Debug\120\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values\values.xml
+color;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values\values.xml
+color;obj\Debug\120\res\drawable\splash_screen.xml
+color;obj\Debug\120\res\values\colors.xml
+color;obj\Debug\120\res\values\ic_launcher_background.xml
+color;obj\Debug\120\res\values-night\colors.xml
+com.google.android.exoplayer2.ui.AspectRatioFrameLayout;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\layout\exo_simple_player_view.xml
+com.google.android.exoplayer2.ui.AspectRatioFrameLayout;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\layout\exo_simple_player_view.xml
+com.google.android.exoplayer2.ui.SubtitleView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\layout\exo_simple_player_view.xml
+com.google.android.exoplayer2.ui.SubtitleView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\layout\exo_simple_player_view.xml
+com.google.android.exoplayer2.ui.TrackSelectionView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\layout\exo_track_selection_dialog.xml
+com.google.android.exoplayer2.ui.TrackSelectionView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\layout\exo_track_selection_dialog.xml
+com.google.android.material.appbar.AppBarLayout;obj\Debug\120\res\layout\xyzu_layout_library_drawerlayout.xml
+com.google.android.material.appbar.AppBarLayout;obj\Debug\120\res\layout\xyzu_layout_library_tablayout.xml
+com.google.android.material.card.MaterialCardView;obj\Debug\120\res\layout\xyzu_layout_library_drawerlayout.xml
+com.google.android.material.card.MaterialCardView;obj\Debug\120\res\layout\xyzu_layout_library_tablayout.xml
+com.google.android.material.floatingactionbutton.FloatingActionButton;obj\Debug\120\res\layout\xyzu_layout_library_drawerlayout.xml
+com.google.android.material.floatingactionbutton.FloatingActionButton;obj\Debug\120\res\layout\xyzu_layout_library_tablayout.xml
+com.google.android.material.navigation.NavigationView;obj\Debug\120\res\layout\xyzu_layout_library_drawerlayout.xml
+com.google.android.material.tabs.TabLayout;obj\Debug\120\res\layout\xyzu_view_toolbar_tablayout.xml
+com.jaredrummler.android.colorpicker.ColorPanelView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_color_item_circle.xml
+com.jaredrummler.android.colorpicker.ColorPanelView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_color_item_square.xml
+com.jaredrummler.android.colorpicker.ColorPanelView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_dialog_color_picker.xml
+com.jaredrummler.android.colorpicker.ColorPanelView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_preference_circle.xml
+com.jaredrummler.android.colorpicker.ColorPanelView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_preference_circle_large.xml
+com.jaredrummler.android.colorpicker.ColorPanelView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_preference_square.xml
+com.jaredrummler.android.colorpicker.ColorPanelView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_preference_square_large.xml
+com.jaredrummler.android.colorpicker.ColorPickerView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_dialog_color_picker.xml
+com.jaredrummler.android.colorpicker.NestedGridView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_dialog_presets.xml
+com.oze.music.musicbar.FixedMusicBar;obj\Debug\120\res\layout\xyzu_view_nowplaying.xml
+com.oze.music.musicbar.FixedMusicBar;obj\Debug\120\res\layout\xyzu_view_nowplaying_collapsed.xml
+com.oze.music.musicbar.FixedMusicBar;obj\Debug\120\res\layout\xyzu_view_nowplaying_expanded.xml
+com.sothree.slidinguppanel.SlidingUpPanelLayout;obj\Debug\120\res\layout\xyzu_layout_library_drawerlayout.xml
+com.sothree.slidinguppanel.SlidingUpPanelLayout;obj\Debug\120\res\layout\xyzu_layout_library_tablayout.xml
+Constraint;obj\Debug\120\res\xml\motionscene_nowplayingview.xml
+ConstraintSet;obj\Debug\120\res\xml\motionscene_nowplayingview.xml
+corners;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\drawable\cpv_btn_background_pressed.xml
+corners;obj\Debug\120\res\drawable\shape_cornered_all.xml
+corners;obj\Debug\120\res\drawable\shape_cornered_bottom.xml
+corners;obj\Debug\120\res\drawable\shape_cornered_bottomleft.xml
+corners;obj\Debug\120\res\drawable\shape_cornered_bottomright.xml
+corners;obj\Debug\120\res\drawable\shape_cornered_left.xml
+corners;obj\Debug\120\res\drawable\shape_cornered_right.xml
+corners;obj\Debug\120\res\drawable\shape_cornered_top.xml
+corners;obj\Debug\120\res\drawable\shape_cornered_topleft.xml
+corners;obj\Debug\120\res\drawable\shape_cornered_topright.xml
+corners;obj\Debug\120\res\drawable\xyzu_appcompat_editdate_background.xml
+corners;obj\Debug\120\res\drawable\xyzu_appcompat_edittext_background.xml
+corners;obj\Debug\120\res\drawable\xyzu_material_snackbar_background.xml
+corners;obj\Debug\120\res\drawable\xyzu_popupmenu_background.xml
+corners;obj\Debug\120\res\drawable\xyzu_popupmenu_item_background.xml
+corners;obj\Debug\120\res\drawable\xyzu_view_libraryheader_imagebutton_background.xml
+corners;obj\Debug\120\res\drawable\xyzu_view_libraryheader_text_background.xml
+corners;obj\Debug\120\res\drawable\xyzu_view_libraryitem_grid_background.xml
+corners;obj\Debug\120\res\drawable\xyzu_view_libraryitem_list_background.xml
+corners;obj\Debug\120\res\drawable\xyzu_view_option_button_background.xml
+corners;obj\Debug\120\res\drawable\xyzu_view_option_imagebutton_background.xml
+corners;obj\Debug\120\res\drawable\xyzu_view_toolbar_imagebutton_background.xml
+corners;obj\Debug\120\res\drawable\xyzu_widget_recyclerview_scrollbar_thumb.xml
+corners;obj\Debug\120\res\drawable\xyzu_widget_recyclerview_scrollbar_track.xml
+crc6412508c95ecb263f3.NowPlayingView;obj\Debug\120\res\layout\xyzu_layout_library_drawerlayout.xml
+crc6412508c95ecb263f3.NowPlayingView;obj\Debug\120\res\layout\xyzu_layout_library_tablayout.xml
+crc64263f8915c2566770.HeaderLibraryItemsView;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_album.xml
+crc64263f8915c2566770.HeaderLibraryItemsView;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_artist.xml
+crc64263f8915c2566770.HeaderLibraryItemsView;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_genre.xml
+crc64263f8915c2566770.HeaderLibraryItemsView;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_playlist.xml
+crc6447b785146533e1c6.OptionsLibraryListView;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_libraryitems.xml
+crc64ed8de44d47dc23dc.ToolbarDrawerView;obj\Debug\120\res\layout\xyzu_layout_library_drawerlayout.xml
+crc64ed8de44d47dc23dc.ToolbarSearchView;obj\Debug\120\res\layout\xyzu_layout_library_drawerlayout.xml
+crc64ed8de44d47dc23dc.ToolbarSearchView;obj\Debug\120\res\layout\xyzu_layout_library_tablayout.xml
+crc64ed8de44d47dc23dc.ToolbarSettingsView;obj\Debug\120\res\layout\xyzu_layout_settings.xml
+crc64ed8de44d47dc23dc.ToolbarTabLayoutView;obj\Debug\120\res\layout\xyzu_layout_library_tablayout.xml
+declare-styleable;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values\values.xml
+declare-styleable;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values\values.xml
+declare-styleable;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\85\jl\res\values\values.xml
+declare-styleable;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values\values.xml
+declare-styleable;obj\Debug\120\res\values\attrs.xml
+dimen;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values\values.xml
+dimen;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values\values.xml
+dimen;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values\values.xml
+dimen;obj\Debug\120\res\values\dimens.xml
+drawable;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values\values.xml
+drawable;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values\values.xml
+EditText;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_dialog_color_picker.xml
+enum;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values\values.xml
+enum;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values\values.xml
+enum;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\85\jl\res\values\values.xml
+enum;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values\values.xml
+external-cache-path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\86\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-cache-path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\52\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-cache-path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Extensions\obj\Debug\120\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\86\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\52\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Extensions\obj\Debug\120\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;obj\Debug\120\res\xml\provider_paths.xml
+flag;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values\values.xml
+flag;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values\values.xml
+font;obj\Debug\120\res\font\baloobhai2.xml
+font-family;obj\Debug\120\res\font\baloobhai2.xml
+foreground;obj\Debug\120\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Debug\120\res\mipmap-anydpi-v26\ic_launcher_round.xml
+FrameLayout;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\layout\exo_simple_player_view.xml
+FrameLayout;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_color_item_circle.xml
+FrameLayout;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_color_item_square.xml
+FrameLayout;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\layout\exo_simple_player_view.xml
+gradient;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\85\jl\res\drawable\above_shadow.xml
+gradient;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\85\jl\res\drawable\below_shadow.xml
+gradient;obj\Debug\120\res\drawable\splash_screen.xml
+gradient;obj\Debug\120\res\drawable\xyzu_view_inset_fadebottomup_colorsurface.xml
+gradient;obj\Debug\120\res\drawable\xyzu_view_inset_fadetopdown_colorsurface.xml
+gradient;obj\Debug\120\res\drawable\xyzu_view_nowplaying_background.xml
+gradient;obj\Debug\120\res\drawable\xyzu_view_nowplayling_button_background.xml
+HorizontalScrollView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_dialog_presets.xml
+HorizontalScrollView;obj\Debug\120\res\layout\xyzu_view_toolbar_search.xml
+ImageButton;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\layout\exo_playback_control_view.xml
+ImageButton;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\layout\exo_playback_control_view.xml
+ImageView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\layout\exo_simple_player_view.xml
+ImageView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_color_item_circle.xml
+ImageView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_color_item_square.xml
+ImageView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_dialog_color_picker.xml
+ImageView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\layout\exo_simple_player_view.xml
+include;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\layout\exo_player_control_view.xml
+include;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\layout\exo_player_view.xml
+include;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\layout\exo_player_control_view.xml
+include;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\layout\exo_player_view.xml
+include;obj\Debug\120\res\layout\xyzu_preference_checkboxpreference.xml
+include;obj\Debug\120\res\layout\xyzu_preference_dropdownpreference.xml
+include;obj\Debug\120\res\layout\xyzu_preference_preferencescreen.xml
+include;obj\Debug\120\res\layout\xyzu_preference_seekbarpreference.xml
+include;obj\Debug\120\res\layout\xyzu_preference_switchpreferencecompat.xml
+include;obj\Debug\120\res\layout\xyzu_preference_viewpreference.xml
+integer;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values\values.xml
+integer;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values\values.xml
+item;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values\values.xml
+item;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\drawable\cpv_btn_background.xml
+item;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\drawable\cpv_btn_background_pressed.xml
+item;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values\values.xml
+item;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values\values.xml
+item;obj\Debug\120\res\drawable\shape_oval_surfacetransparent_clickable.xml
+item;obj\Debug\120\res\drawable\shape_oval_transparent_clickable.xml
+item;obj\Debug\120\res\drawable\splash_screen.xml
+item;obj\Debug\120\res\drawable\xyzu_appcompat_editdate_background.xml
+item;obj\Debug\120\res\drawable\xyzu_appcompat_edittext_background.xml
+item;obj\Debug\120\res\drawable\xyzu_material_snackbar_background.xml
+item;obj\Debug\120\res\drawable\xyzu_popupmenu_item_background.xml
+item;obj\Debug\120\res\drawable\xyzu_view_libraryheader_imagebutton_background.xml
+item;obj\Debug\120\res\drawable\xyzu_view_libraryheader_text_background.xml
+item;obj\Debug\120\res\drawable\xyzu_view_libraryitem_grid_background.xml
+item;obj\Debug\120\res\drawable\xyzu_view_libraryitem_list_background.xml
+item;obj\Debug\120\res\drawable\xyzu_view_nowplaying_background.xml
+item;obj\Debug\120\res\drawable\xyzu_view_nowplayling_button_background.xml
+item;obj\Debug\120\res\drawable\xyzu_view_option_button_background.xml
+item;obj\Debug\120\res\drawable\xyzu_view_option_button_checkbox_drawable.xml
+item;obj\Debug\120\res\drawable\xyzu_view_option_imagebutton_background.xml
+item;obj\Debug\120\res\drawable\xyzu_view_toolbar_imagebutton_background.xml
+item;obj\Debug\120\res\drawable\xyzu_widget_recyclerview_scrollbar_thumb.xml
+item;obj\Debug\120\res\drawable\xyzu_widget_recyclerview_scrollbar_track.xml
+item;obj\Debug\120\res\values\styles.xml
+item;obj\Debug\120\res\values\styles_appcompat.xml
+item;obj\Debug\120\res\values\styles_material.xml
+item;obj\Debug\120\res\values\styles_preference.xml
+item;obj\Debug\120\res\values\styles_views.xml
+item;obj\Debug\120\res\values\styles_widgets.xml
+item;obj\Debug\120\res\values\themes.xml
+item;obj\Debug\120\res\values-night\themes.xml
+layer-list;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\drawable\cpv_btn_background_pressed.xml
+layer-list;obj\Debug\120\res\drawable\splash_screen.xml
+layer-list;obj\Debug\120\res\drawable\xyzu_view_nowplaying_background.xml
+layer-list;obj\Debug\120\res\drawable\xyzu_view_option_button_checkbox_drawable.xml
+LinearLayout;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\layout\exo_playback_control_view.xml
+LinearLayout;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_dialog_color_picker.xml
+LinearLayout;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_dialog_presets.xml
+LinearLayout;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\layout\exo_playback_control_view.xml
+merge;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\layout\exo_player_control_view.xml
+merge;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\layout\exo_player_view.xml
+merge;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\layout\exo_simple_player_view.xml
+merge;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\layout\exo_player_control_view.xml
+merge;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\layout\exo_player_view.xml
+merge;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\layout\exo_simple_player_view.xml
+merge;obj\Debug\120\res\layout\xyzu_view_info_album.xml
+merge;obj\Debug\120\res\layout\xyzu_view_info_artist.xml
+merge;obj\Debug\120\res\layout\xyzu_view_info_genre.xml
+merge;obj\Debug\120\res\layout\xyzu_view_info_playlist.xml
+merge;obj\Debug\120\res\layout\xyzu_view_info_song.xml
+merge;obj\Debug\120\res\layout\xyzu_view_info_song_lyrics.xml
+merge;obj\Debug\120\res\layout\xyzu_view_infoedit_album.xml
+merge;obj\Debug\120\res\layout\xyzu_view_infoedit_artist.xml
+merge;obj\Debug\120\res\layout\xyzu_view_infoedit_genre.xml
+merge;obj\Debug\120\res\layout\xyzu_view_infoedit_playlist.xml
+merge;obj\Debug\120\res\layout\xyzu_view_infoedit_song.xml
+merge;obj\Debug\120\res\layout\xyzu_view_infoedit_song_lyrics.xml
+merge;obj\Debug\120\res\layout\xyzu_view_library_album.xml
+merge;obj\Debug\120\res\layout\xyzu_view_library_albums.xml
+merge;obj\Debug\120\res\layout\xyzu_view_library_artist.xml
+merge;obj\Debug\120\res\layout\xyzu_view_library_artists.xml
+merge;obj\Debug\120\res\layout\xyzu_view_library_genre.xml
+merge;obj\Debug\120\res\layout\xyzu_view_library_genres.xml
+merge;obj\Debug\120\res\layout\xyzu_view_library_playlist.xml
+merge;obj\Debug\120\res\layout\xyzu_view_library_playlists.xml
+merge;obj\Debug\120\res\layout\xyzu_view_library_queue.xml
+merge;obj\Debug\120\res\layout\xyzu_view_library_search.xml
+merge;obj\Debug\120\res\layout\xyzu_view_library_songs.xml
+merge;obj\Debug\120\res\layout\xyzu_view_libraryitem_grid_large.xml
+merge;obj\Debug\120\res\layout\xyzu_view_libraryitem_grid_medium.xml
+merge;obj\Debug\120\res\layout\xyzu_view_libraryitem_grid_small.xml
+merge;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_album.xml
+merge;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_artist.xml
+merge;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_genre.xml
+merge;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_libraryitems.xml
+merge;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_playlist.xml
+merge;obj\Debug\120\res\layout\xyzu_view_libraryitem_list_large.xml
+merge;obj\Debug\120\res\layout\xyzu_view_libraryitem_list_medium.xml
+merge;obj\Debug\120\res\layout\xyzu_view_libraryitem_list_small.xml
+merge;obj\Debug\120\res\layout\xyzu_view_misc_dialog.xml
+merge;obj\Debug\120\res\layout\xyzu_view_nowplaying.xml
+merge;obj\Debug\120\res\layout\xyzu_view_nowplaying_collapsed.xml
+merge;obj\Debug\120\res\layout\xyzu_view_nowplaying_expanded.xml
+merge;obj\Debug\120\res\layout\xyzu_view_option_createandview.xml
+merge;obj\Debug\120\res\layout\xyzu_view_option_librarylist.xml
+merge;obj\Debug\120\res\layout\xyzu_view_option_menu.xml
+merge;obj\Debug\120\res\layout\xyzu_view_setting_audioband.xml
+merge;obj\Debug\120\res\layout\xyzu_view_setting_directoryitem.xml
+merge;obj\Debug\120\res\layout\xyzu_view_toolbar_drawerlayout.xml
+merge;obj\Debug\120\res\layout\xyzu_view_toolbar_search.xml
+merge;obj\Debug\120\res\layout\xyzu_view_toolbar_settings.xml
+merge;obj\Debug\120\res\layout\xyzu_view_toolbar_tablayout.xml
+MotionScene;obj\Debug\120\res\xml\motionscene_nowplayingview.xml
+OnSwipe;obj\Debug\120\res\xml\motionscene_nowplayingview.xml
+padding;obj\Debug\120\res\drawable\xyzu_view_libraryheader_imagebutton_background.xml
+padding;obj\Debug\120\res\drawable\xyzu_view_libraryheader_text_background.xml
+padding;obj\Debug\120\res\drawable\xyzu_view_toolbar_imagebutton_background.xml
+padding;obj\Debug\120\res\drawable\xyzu_widget_recyclerview_scrollbar_thumb.xml
+padding;obj\Debug\120\res\drawable\xyzu_widget_recyclerview_scrollbar_track.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\drawable-anydpi-v21\exo_media_action_repeat_all.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\drawable-anydpi-v21\exo_media_action_repeat_off.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\drawable-anydpi-v21\exo_media_action_repeat_one.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_edit_mode_logo.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_fastforward.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_fullscreen_enter.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_fullscreen_exit.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_next.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_pause.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_play.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_previous.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_repeat_all.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_repeat_off.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_repeat_one.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_rewind.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_shuffle_off.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_shuffle_on.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_stop.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\drawable-anydpi-v21\cpv_ic_arrow_right_black_24dp.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\drawable-anydpi-v21\cpv_preset_checked.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\drawable-anydpi-v21\exo_media_action_repeat_all.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\drawable-anydpi-v21\exo_media_action_repeat_off.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\drawable-anydpi-v21\exo_media_action_repeat_one.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_edit_mode_logo.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_fastforward.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_fullscreen_enter.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_fullscreen_exit.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_next.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_pause.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_play.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_previous.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_repeat_all.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_repeat_off.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_repeat_one.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_rewind.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_shuffle_off.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_shuffle_on.xml
+path;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_stop.xml
+path;obj\Debug\120\res\drawable\empty_02dp_height.xml
+path;obj\Debug\120\res\drawable\empty_02dp_width.xml
+path;obj\Debug\120\res\drawable\empty_04dp_height.xml
+path;obj\Debug\120\res\drawable\empty_04dp_width.xml
+path;obj\Debug\120\res\drawable\empty_08dp_height.xml
+path;obj\Debug\120\res\drawable\empty_08dp_width.xml
+path;obj\Debug\120\res\drawable\empty_16dp_width.xml
+path;obj\Debug\120\res\drawable\icon_general_clock.xml
+path;obj\Debug\120\res\drawable\icon_general_dots_horizontal.xml
+path;obj\Debug\120\res\drawable\icon_general_dots_vertical.xml
+path;obj\Debug\120\res\drawable\icon_general_microphone.xml
+path;obj\Debug\120\res\drawable\icon_general_nowplaying.xml
+path;obj\Debug\120\res\drawable\icon_general_plus.xml
+path;obj\Debug\120\res\drawable\icon_general_x.xml
+path;obj\Debug\120\res\drawable\icon_library_album.xml
+path;obj\Debug\120\res\drawable\icon_library_albums.xml
+path;obj\Debug\120\res\drawable\icon_library_artist.xml
+path;obj\Debug\120\res\drawable\icon_library_artists.xml
+path;obj\Debug\120\res\drawable\icon_library_genre.xml
+path;obj\Debug\120\res\drawable\icon_library_genres.xml
+path;obj\Debug\120\res\drawable\icon_library_playlist.xml
+path;obj\Debug\120\res\drawable\icon_library_playlists.xml
+path;obj\Debug\120\res\drawable\icon_library_queue.xml
+path;obj\Debug\120\res\drawable\icon_library_search.xml
+path;obj\Debug\120\res\drawable\icon_library_song.xml
+path;obj\Debug\120\res\drawable\icon_library_songs.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_addtoplaylist.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_addtoqueue.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_audioeffects.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_back.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_cancel.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_delete.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_editinfo.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_equaliser.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_gotoalbum.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_gotoartist.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_gotogenre.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_gotonowplaying.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_gotoplaylist.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_gotoqueue.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_listoptions.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_movedown.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_movetobottom.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_movetotop.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_moveup.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_options.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_play.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_remove.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_rescan.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_reverselist.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_search.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_select.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_settings.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_share.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_sortlist.xml
+path;obj\Debug\120\res\drawable\icon_menuoptions_viewinfo.xml
+path;obj\Debug\120\res\drawable\icon_player_fast_foward.xml
+path;obj\Debug\120\res\drawable\icon_player_pause.xml
+path;obj\Debug\120\res\drawable\icon_player_play.xml
+path;obj\Debug\120\res\drawable\icon_player_repeatmode_norepeat.xml
+path;obj\Debug\120\res\drawable\icon_player_repeatmode_repeatentirequeue.xml
+path;obj\Debug\120\res\drawable\icon_player_repeatmode_repeatsong.xml
+path;obj\Debug\120\res\drawable\icon_player_repeatmode_repeatsubqueue.xml
+path;obj\Debug\120\res\drawable\icon_player_rewind.xml
+path;obj\Debug\120\res\drawable\icon_player_shufflemode_noshuffle.xml
+path;obj\Debug\120\res\drawable\icon_player_shufflemode_shuffleall.xml
+path;obj\Debug\120\res\drawable\icon_player_shufflemode_shufflesubqueues.xml
+path;obj\Debug\120\res\drawable\icon_player_shufflemode_shufflesubqueuesongs.xml
+path;obj\Debug\120\res\drawable\icon_player_skip_backward.xml
+path;obj\Debug\120\res\drawable\icon_player_skip_foward.xml
+path;obj\Debug\120\res\drawable\icon_player_stop.xml
+path;obj\Debug\120\res\drawable\icon_settings.xml
+path;obj\Debug\120\res\drawable\icon_settings_about.xml
+path;obj\Debug\120\res\drawable\icon_settings_audio.xml
+path;obj\Debug\120\res\drawable\icon_settings_audio_bassboost.xml
+path;obj\Debug\120\res\drawable\icon_settings_audio_environmentalreverb.xml
+path;obj\Debug\120\res\drawable\icon_settings_audio_equaliser.xml
+path;obj\Debug\120\res\drawable\icon_settings_audio_loudnessenhancer.xml
+path;obj\Debug\120\res\drawable\icon_settings_files.xml
+path;obj\Debug\120\res\drawable\icon_settings_lockscreen.xml
+path;obj\Debug\120\res\drawable\icon_settings_lyrics.xml
+path;obj\Debug\120\res\drawable\icon_settings_notification.xml
+path;obj\Debug\120\res\drawable\icon_settings_system.xml
+path;obj\Debug\120\res\drawable\icon_settings_userinterface.xml
+path;obj\Debug\120\res\drawable\icon_settings_userinterface_languages.xml
+path;obj\Debug\120\res\drawable\icon_settings_userinterface_library.xml
+path;obj\Debug\120\res\drawable\icon_settings_userinterface_library_album.xml
+path;obj\Debug\120\res\drawable\icon_settings_userinterface_library_albums.xml
+path;obj\Debug\120\res\drawable\icon_settings_userinterface_library_artist.xml
+path;obj\Debug\120\res\drawable\icon_settings_userinterface_library_artists.xml
+path;obj\Debug\120\res\drawable\icon_settings_userinterface_library_genre.xml
+path;obj\Debug\120\res\drawable\icon_settings_userinterface_library_genres.xml
+path;obj\Debug\120\res\drawable\icon_settings_userinterface_library_playlist.xml
+path;obj\Debug\120\res\drawable\icon_settings_userinterface_library_playlists.xml
+path;obj\Debug\120\res\drawable\icon_settings_userinterface_library_queue.xml
+path;obj\Debug\120\res\drawable\icon_settings_userinterface_library_search.xml
+path;obj\Debug\120\res\drawable\icon_settings_userinterface_library_songs.xml
+path;obj\Debug\120\res\drawable\icon_settings_userinterface_nowplaying.xml
+path;obj\Debug\120\res\drawable\icon_settings_userinterface_themes.xml
+path;obj\Debug\120\res\drawable\icon_xyzu.xml
+path;obj\Debug\120\res\drawable\splash_screen_icon.xml
+paths;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\86\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+paths;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\52\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+paths;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Extensions\obj\Debug\120\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+paths;obj\Debug\120\res\xml\provider_paths.xml
+ProgressBar;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\layout\exo_simple_player_view.xml
+ProgressBar;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\layout\exo_simple_player_view.xml
+RelativeLayout;obj\Debug\120\res\layout\activity_main.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\10\jl\res\values\values.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values\values.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-af\values-af.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-am\values-am.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ar\values-ar.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-az\values-az.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-b+sr+Latn\values-b+sr+Latn.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-be\values-be.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-bg\values-bg.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-bn\values-bn.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-bs\values-bs.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ca\values-ca.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-cs\values-cs.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-da\values-da.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-de\values-de.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-el\values-el.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-en-rAU\values-en-rAU.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-en-rGB\values-en-rGB.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-en-rIN\values-en-rIN.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-es\values-es.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-es-rUS\values-es-rUS.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-et\values-et.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-eu\values-eu.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-fa\values-fa.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-fi\values-fi.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-fr\values-fr.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-fr-rCA\values-fr-rCA.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-gl\values-gl.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-gu\values-gu.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-hi\values-hi.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-hr\values-hr.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-hu\values-hu.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-hy\values-hy.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-in\values-in.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-is\values-is.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-it\values-it.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-iw\values-iw.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ja\values-ja.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ka\values-ka.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-kk\values-kk.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-km\values-km.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-kn\values-kn.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ko\values-ko.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ky\values-ky.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-lo\values-lo.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-lt\values-lt.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-lv\values-lv.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-mk\values-mk.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ml\values-ml.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-mn\values-mn.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-mr\values-mr.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ms\values-ms.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-my\values-my.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-nb\values-nb.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ne\values-ne.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-nl\values-nl.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-pa\values-pa.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-pl\values-pl.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-pt\values-pt.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-pt-rPT\values-pt-rPT.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ro\values-ro.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ru\values-ru.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-si\values-si.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-sk\values-sk.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-sl\values-sl.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-sq\values-sq.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-sr\values-sr.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-sv\values-sv.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-sw\values-sw.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ta\values-ta.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-te\values-te.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-th\values-th.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-tl\values-tl.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-tr\values-tr.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-uk\values-uk.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ur\values-ur.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-uz\values-uz.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-vi\values-vi.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-zh-rCN\values-zh-rCN.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-zh-rHK\values-zh-rHK.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-zh-rTW\values-zh-rTW.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-zu\values-zu.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values\values.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-af\values-af.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-am\values-am.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ar\values-ar.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-az\values-az.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-b+sr+Latn\values-b+sr+Latn.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-be\values-be.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-bg\values-bg.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-bn\values-bn.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-bs\values-bs.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ca\values-ca.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-cs\values-cs.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-da\values-da.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-de\values-de.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-el\values-el.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-en-rAU\values-en-rAU.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-en-rGB\values-en-rGB.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-en-rIN\values-en-rIN.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-es\values-es.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-es-rUS\values-es-rUS.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-et\values-et.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-eu\values-eu.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-fa\values-fa.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-fi\values-fi.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-fr\values-fr.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-fr-rCA\values-fr-rCA.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-gl\values-gl.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-gu\values-gu.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-hi\values-hi.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-hr\values-hr.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-hu\values-hu.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-hy\values-hy.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-in\values-in.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-is\values-is.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-it\values-it.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-iw\values-iw.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ja\values-ja.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ka\values-ka.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-kk\values-kk.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-km\values-km.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-kn\values-kn.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ko\values-ko.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ky\values-ky.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-lo\values-lo.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-lt\values-lt.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-lv\values-lv.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-mk\values-mk.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ml\values-ml.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-mn\values-mn.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-mr\values-mr.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ms\values-ms.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-my\values-my.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-nb\values-nb.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ne\values-ne.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-nl\values-nl.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-pa\values-pa.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-pl\values-pl.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-pt\values-pt.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-pt-rPT\values-pt-rPT.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ro\values-ro.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ru\values-ru.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-si\values-si.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-sk\values-sk.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-sl\values-sl.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-sq\values-sq.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-sr\values-sr.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-sv\values-sv.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-sw\values-sw.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ta\values-ta.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-te\values-te.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-th\values-th.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-tl\values-tl.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-tr\values-tr.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-uk\values-uk.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ur\values-ur.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-uz\values-uz.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-vi\values-vi.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-zh-rCN\values-zh-rCN.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-zh-rHK\values-zh-rHK.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-zh-rTW\values-zh-rTW.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-zu\values-zu.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values\values.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-ar\values-ar.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-cs\values-cs.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-de\values-de.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-es\values-es.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-fr-rFR\values-fr-rFR.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-it-rIT\values-it-rIT.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-ja\values-ja.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-nl-rNL\values-nl-rNL.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-pl\values-pl.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-pt\values-pt.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-ru\values-ru.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-sk\values-sk.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-tr\values-tr.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-zh\values-zh.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\85\jl\res\values\values.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values\values.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-af\values-af.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-am\values-am.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ar\values-ar.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-az\values-az.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-b+sr+Latn\values-b+sr+Latn.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-be\values-be.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-bg\values-bg.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-bn\values-bn.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-bs\values-bs.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ca\values-ca.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-cs\values-cs.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-da\values-da.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-de\values-de.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-el\values-el.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-en-rAU\values-en-rAU.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-en-rGB\values-en-rGB.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-en-rIN\values-en-rIN.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-es\values-es.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-es-rUS\values-es-rUS.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-et\values-et.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-eu\values-eu.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-fa\values-fa.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-fi\values-fi.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-fr\values-fr.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-fr-rCA\values-fr-rCA.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-gl\values-gl.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-gu\values-gu.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-hi\values-hi.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-hr\values-hr.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-hu\values-hu.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-hy\values-hy.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-in\values-in.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-is\values-is.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-it\values-it.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-iw\values-iw.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ja\values-ja.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ka\values-ka.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-kk\values-kk.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-km\values-km.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-kn\values-kn.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ko\values-ko.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ky\values-ky.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-lo\values-lo.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-lt\values-lt.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-lv\values-lv.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-mk\values-mk.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ml\values-ml.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-mn\values-mn.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-mr\values-mr.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ms\values-ms.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-my\values-my.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-nb\values-nb.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ne\values-ne.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-nl\values-nl.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-pa\values-pa.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-pl\values-pl.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-pt\values-pt.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-pt-rPT\values-pt-rPT.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ro\values-ro.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ru\values-ru.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-si\values-si.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-sk\values-sk.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-sl\values-sl.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-sq\values-sq.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-sr\values-sr.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-sv\values-sv.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-sw\values-sw.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ta\values-ta.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-te\values-te.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-th\values-th.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-tl\values-tl.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-tr\values-tr.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-uk\values-uk.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ur\values-ur.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-uz\values-uz.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-vi\values-vi.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-zh-rCN\values-zh-rCN.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-zh-rHK\values-zh-rHK.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-zh-rTW\values-zh-rTW.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-zu\values-zu.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values\values.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-af\values-af.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-am\values-am.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ar\values-ar.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-az\values-az.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-b+sr+Latn\values-b+sr+Latn.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-be\values-be.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-bg\values-bg.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-bn\values-bn.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-bs\values-bs.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ca\values-ca.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-cs\values-cs.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-da\values-da.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-de\values-de.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-el\values-el.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-en-rAU\values-en-rAU.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-en-rGB\values-en-rGB.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-en-rIN\values-en-rIN.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-es\values-es.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-es-rUS\values-es-rUS.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-et\values-et.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-eu\values-eu.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-fa\values-fa.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-fi\values-fi.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-fr\values-fr.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-fr-rCA\values-fr-rCA.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-gl\values-gl.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-gu\values-gu.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-hi\values-hi.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-hr\values-hr.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-hu\values-hu.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-hy\values-hy.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-in\values-in.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-is\values-is.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-it\values-it.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-iw\values-iw.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ja\values-ja.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ka\values-ka.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-kk\values-kk.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-km\values-km.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-kn\values-kn.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ko\values-ko.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ky\values-ky.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-lo\values-lo.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-lt\values-lt.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-lv\values-lv.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-mk\values-mk.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ml\values-ml.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-mn\values-mn.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-mr\values-mr.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ms\values-ms.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-my\values-my.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-nb\values-nb.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ne\values-ne.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-nl\values-nl.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-pa\values-pa.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-pl\values-pl.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-pt\values-pt.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-pt-rPT\values-pt-rPT.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ro\values-ro.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ru\values-ru.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-si\values-si.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-sk\values-sk.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-sl\values-sl.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-sq\values-sq.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-sr\values-sr.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-sv\values-sv.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-sw\values-sw.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ta\values-ta.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-te\values-te.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-th\values-th.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-tl\values-tl.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-tr\values-tr.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-uk\values-uk.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ur\values-ur.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-uz\values-uz.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-vi\values-vi.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-zh-rCN\values-zh-rCN.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-zh-rHK\values-zh-rHK.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-zh-rTW\values-zh-rTW.xml
+resources;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-zu\values-zu.xml
+resources;obj\Debug\120\res\values\arrays.xml
+resources;obj\Debug\120\res\values\attrs.xml
+resources;obj\Debug\120\res\values\colors.xml
+resources;obj\Debug\120\res\values\dimens.xml
+resources;obj\Debug\120\res\values\ic_launcher_background.xml
+resources;obj\Debug\120\res\values\strings.xml
+resources;obj\Debug\120\res\values\strings_enums.xml
+resources;obj\Debug\120\res\values\strings_library.xml
+resources;obj\Debug\120\res\values\strings_models.xml
+resources;obj\Debug\120\res\values\strings_player.xml
+resources;obj\Debug\120\res\values\strings_settings.xml
+resources;obj\Debug\120\res\values\strings_snackbars.xml
+resources;obj\Debug\120\res\values\strings_views.xml
+resources;obj\Debug\120\res\values\styles.xml
+resources;obj\Debug\120\res\values\styles_appcompat.xml
+resources;obj\Debug\120\res\values\styles_material.xml
+resources;obj\Debug\120\res\values\styles_preference.xml
+resources;obj\Debug\120\res\values\styles_views.xml
+resources;obj\Debug\120\res\values\styles_widgets.xml
+resources;obj\Debug\120\res\values\themes.xml
+resources;obj\Debug\120\res\values-night\colors.xml
+resources;obj\Debug\120\res\values-night\themes.xml
+ripple;obj\Debug\120\res\drawable\shape_oval_surfacetransparent_clickable.xml
+ripple;obj\Debug\120\res\drawable\shape_oval_transparent_clickable.xml
+ripple;obj\Debug\120\res\drawable\xyzu_appcompat_editdate_background.xml
+ripple;obj\Debug\120\res\drawable\xyzu_appcompat_edittext_background.xml
+ripple;obj\Debug\120\res\drawable\xyzu_material_snackbar_background.xml
+ripple;obj\Debug\120\res\drawable\xyzu_popupmenu_item_background.xml
+ripple;obj\Debug\120\res\drawable\xyzu_view_libraryheader_imagebutton_background.xml
+ripple;obj\Debug\120\res\drawable\xyzu_view_libraryheader_text_background.xml
+ripple;obj\Debug\120\res\drawable\xyzu_view_libraryitem_grid_background.xml
+ripple;obj\Debug\120\res\drawable\xyzu_view_libraryitem_list_background.xml
+ripple;obj\Debug\120\res\drawable\xyzu_view_nowplayling_button_background.xml
+ripple;obj\Debug\120\res\drawable\xyzu_view_option_button_background.xml
+ripple;obj\Debug\120\res\drawable\xyzu_view_option_imagebutton_background.xml
+ripple;obj\Debug\120\res\drawable\xyzu_view_toolbar_imagebutton_background.xml
+ripple;obj\Debug\120\res\drawable\xyzu_widget_recyclerview_scrollbar_thumb.xml
+root-path;obj\Debug\120\res\xml\provider_paths.xml
+ScrollView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\layout\exo_track_selection_dialog.xml
+ScrollView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_dialog_color_picker.xml
+ScrollView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_dialog_presets.xml
+ScrollView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\layout\exo_track_selection_dialog.xml
+SeekBar;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_dialog_presets.xml
+selector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\drawable\cpv_btn_background.xml
+selector;obj\Debug\120\res\drawable\shape_oval_surfacetransparent_clickable.xml
+selector;obj\Debug\120\res\drawable\shape_oval_transparent_clickable.xml
+selector;obj\Debug\120\res\drawable\xyzu_appcompat_editdate_background.xml
+selector;obj\Debug\120\res\drawable\xyzu_appcompat_edittext_background.xml
+selector;obj\Debug\120\res\drawable\xyzu_material_snackbar_background.xml
+selector;obj\Debug\120\res\drawable\xyzu_popupmenu_item_background.xml
+selector;obj\Debug\120\res\drawable\xyzu_view_libraryheader_imagebutton_background.xml
+selector;obj\Debug\120\res\drawable\xyzu_view_libraryheader_text_background.xml
+selector;obj\Debug\120\res\drawable\xyzu_view_libraryitem_grid_background.xml
+selector;obj\Debug\120\res\drawable\xyzu_view_libraryitem_list_background.xml
+selector;obj\Debug\120\res\drawable\xyzu_view_nowplayling_button_background.xml
+selector;obj\Debug\120\res\drawable\xyzu_view_option_button_background.xml
+selector;obj\Debug\120\res\drawable\xyzu_view_option_button_checkbox_drawable.xml
+selector;obj\Debug\120\res\drawable\xyzu_view_option_imagebutton_background.xml
+selector;obj\Debug\120\res\drawable\xyzu_view_toolbar_imagebutton_background.xml
+selector;obj\Debug\120\res\drawable\xyzu_widget_recyclerview_scrollbar_thumb.xml
+selector;obj\Debug\120\res\drawable\xyzu_widget_recyclerview_scrollbar_track.xml
+shape;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\drawable\cpv_btn_background_pressed.xml
+shape;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\85\jl\res\drawable\above_shadow.xml
+shape;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\85\jl\res\drawable\below_shadow.xml
+shape;obj\Debug\120\res\drawable\shape_cornered_all.xml
+shape;obj\Debug\120\res\drawable\shape_cornered_bottom.xml
+shape;obj\Debug\120\res\drawable\shape_cornered_bottomleft.xml
+shape;obj\Debug\120\res\drawable\shape_cornered_bottomright.xml
+shape;obj\Debug\120\res\drawable\shape_cornered_left.xml
+shape;obj\Debug\120\res\drawable\shape_cornered_right.xml
+shape;obj\Debug\120\res\drawable\shape_cornered_top.xml
+shape;obj\Debug\120\res\drawable\shape_cornered_topleft.xml
+shape;obj\Debug\120\res\drawable\shape_cornered_topright.xml
+shape;obj\Debug\120\res\drawable\shape_oval_surfacetransparent.xml
+shape;obj\Debug\120\res\drawable\shape_oval_surfacetransparent_clickable.xml
+shape;obj\Debug\120\res\drawable\shape_oval_transparent.xml
+shape;obj\Debug\120\res\drawable\shape_oval_transparent_clickable.xml
+shape;obj\Debug\120\res\drawable\splash_screen.xml
+shape;obj\Debug\120\res\drawable\xyzu_appcompat_editdate_background.xml
+shape;obj\Debug\120\res\drawable\xyzu_appcompat_edittext_background.xml
+shape;obj\Debug\120\res\drawable\xyzu_material_snackbar_background.xml
+shape;obj\Debug\120\res\drawable\xyzu_popupmenu_background.xml
+shape;obj\Debug\120\res\drawable\xyzu_popupmenu_item_background.xml
+shape;obj\Debug\120\res\drawable\xyzu_view_inset_fadebottomup_colorsurface.xml
+shape;obj\Debug\120\res\drawable\xyzu_view_inset_fadetopdown_colorsurface.xml
+shape;obj\Debug\120\res\drawable\xyzu_view_libraryheader_imagebutton_background.xml
+shape;obj\Debug\120\res\drawable\xyzu_view_libraryheader_text_background.xml
+shape;obj\Debug\120\res\drawable\xyzu_view_libraryitem_grid_background.xml
+shape;obj\Debug\120\res\drawable\xyzu_view_libraryitem_list_background.xml
+shape;obj\Debug\120\res\drawable\xyzu_view_nowplaying_background.xml
+shape;obj\Debug\120\res\drawable\xyzu_view_nowplayling_button_background.xml
+shape;obj\Debug\120\res\drawable\xyzu_view_option_button_background.xml
+shape;obj\Debug\120\res\drawable\xyzu_view_option_imagebutton_background.xml
+shape;obj\Debug\120\res\drawable\xyzu_view_toolbar_imagebutton_background.xml
+shape;obj\Debug\120\res\drawable\xyzu_widget_recyclerview_scrollbar_thumb.xml
+shape;obj\Debug\120\res\drawable\xyzu_widget_recyclerview_scrollbar_track.xml
+soid;obj\Debug\120\res\drawable\xyzu_popupmenu_item_background.xml
+solid;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\drawable\cpv_btn_background_pressed.xml
+solid;obj\Debug\120\res\drawable\shape_oval_surfacetransparent.xml
+solid;obj\Debug\120\res\drawable\shape_oval_surfacetransparent_clickable.xml
+solid;obj\Debug\120\res\drawable\shape_oval_transparent.xml
+solid;obj\Debug\120\res\drawable\shape_oval_transparent_clickable.xml
+solid;obj\Debug\120\res\drawable\xyzu_appcompat_editdate_background.xml
+solid;obj\Debug\120\res\drawable\xyzu_appcompat_edittext_background.xml
+solid;obj\Debug\120\res\drawable\xyzu_material_snackbar_background.xml
+solid;obj\Debug\120\res\drawable\xyzu_popupmenu_item_background.xml
+solid;obj\Debug\120\res\drawable\xyzu_view_libraryheader_imagebutton_background.xml
+solid;obj\Debug\120\res\drawable\xyzu_view_libraryheader_text_background.xml
+solid;obj\Debug\120\res\drawable\xyzu_view_libraryitem_grid_background.xml
+solid;obj\Debug\120\res\drawable\xyzu_view_libraryitem_list_background.xml
+solid;obj\Debug\120\res\drawable\xyzu_view_nowplaying_background.xml
+solid;obj\Debug\120\res\drawable\xyzu_view_option_button_background.xml
+solid;obj\Debug\120\res\drawable\xyzu_view_option_imagebutton_background.xml
+solid;obj\Debug\120\res\drawable\xyzu_view_toolbar_imagebutton_background.xml
+solid;obj\Debug\120\res\drawable\xyzu_widget_recyclerview_scrollbar_thumb.xml
+solid;obj\Debug\120\res\drawable\xyzu_widget_recyclerview_scrollbar_track.xml
+Space;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_dialog_color_picker.xml
+Space;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_libraryitems.xml
+Space;obj\Debug\120\res\layout\xyzu_view_misc_dialog.xml
+Space;obj\Debug\120\res\layout\xyzu_view_nowplaying.xml
+Space;obj\Debug\120\res\layout\xyzu_view_nowplaying_collapsed.xml
+Space;obj\Debug\120\res\layout\xyzu_view_nowplaying_expanded.xml
+Space;obj\Debug\120\res\layout\xyzu_view_option_librarylist.xml
+StateSet;obj\Debug\120\res\xml\motionscene_nowplayingview.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\10\jl\res\values\values.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values\values.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-af\values-af.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-am\values-am.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ar\values-ar.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-az\values-az.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-b+sr+Latn\values-b+sr+Latn.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-be\values-be.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-bg\values-bg.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-bn\values-bn.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-bs\values-bs.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ca\values-ca.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-cs\values-cs.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-da\values-da.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-de\values-de.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-el\values-el.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-en-rAU\values-en-rAU.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-en-rGB\values-en-rGB.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-en-rIN\values-en-rIN.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-es\values-es.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-es-rUS\values-es-rUS.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-et\values-et.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-eu\values-eu.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-fa\values-fa.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-fi\values-fi.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-fr\values-fr.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-fr-rCA\values-fr-rCA.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-gl\values-gl.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-gu\values-gu.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-hi\values-hi.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-hr\values-hr.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-hu\values-hu.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-hy\values-hy.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-in\values-in.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-is\values-is.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-it\values-it.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-iw\values-iw.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ja\values-ja.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ka\values-ka.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-kk\values-kk.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-km\values-km.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-kn\values-kn.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ko\values-ko.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ky\values-ky.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-lo\values-lo.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-lt\values-lt.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-lv\values-lv.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-mk\values-mk.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ml\values-ml.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-mn\values-mn.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-mr\values-mr.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ms\values-ms.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-my\values-my.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-nb\values-nb.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ne\values-ne.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-nl\values-nl.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-pa\values-pa.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-pl\values-pl.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-pt\values-pt.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-pt-rPT\values-pt-rPT.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ro\values-ro.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ru\values-ru.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-si\values-si.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-sk\values-sk.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-sl\values-sl.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-sq\values-sq.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-sr\values-sr.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-sv\values-sv.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-sw\values-sw.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ta\values-ta.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-te\values-te.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-th\values-th.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-tl\values-tl.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-tr\values-tr.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-uk\values-uk.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-ur\values-ur.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-uz\values-uz.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-vi\values-vi.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-zh-rCN\values-zh-rCN.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-zh-rHK\values-zh-rHK.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-zh-rTW\values-zh-rTW.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\values-zu\values-zu.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values\values.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-af\values-af.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-am\values-am.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ar\values-ar.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-az\values-az.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-b+sr+Latn\values-b+sr+Latn.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-be\values-be.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-bg\values-bg.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-bn\values-bn.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-bs\values-bs.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ca\values-ca.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-cs\values-cs.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-da\values-da.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-de\values-de.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-el\values-el.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-en-rAU\values-en-rAU.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-en-rGB\values-en-rGB.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-en-rIN\values-en-rIN.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-es\values-es.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-es-rUS\values-es-rUS.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-et\values-et.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-eu\values-eu.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-fa\values-fa.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-fi\values-fi.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-fr\values-fr.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-fr-rCA\values-fr-rCA.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-gl\values-gl.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-gu\values-gu.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-hi\values-hi.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-hr\values-hr.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-hu\values-hu.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-hy\values-hy.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-in\values-in.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-is\values-is.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-it\values-it.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-iw\values-iw.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ja\values-ja.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ka\values-ka.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-kk\values-kk.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-km\values-km.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-kn\values-kn.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ko\values-ko.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ky\values-ky.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-lo\values-lo.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-lt\values-lt.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-lv\values-lv.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-mk\values-mk.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ml\values-ml.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-mn\values-mn.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-mr\values-mr.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ms\values-ms.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-my\values-my.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-nb\values-nb.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ne\values-ne.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-nl\values-nl.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-pa\values-pa.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-pl\values-pl.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-pt\values-pt.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-pt-rPT\values-pt-rPT.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ro\values-ro.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ru\values-ru.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-si\values-si.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-sk\values-sk.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-sl\values-sl.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-sq\values-sq.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-sr\values-sr.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-sv\values-sv.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-sw\values-sw.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ta\values-ta.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-te\values-te.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-th\values-th.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-tl\values-tl.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-tr\values-tr.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-uk\values-uk.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-ur\values-ur.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-uz\values-uz.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-vi\values-vi.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-zh-rCN\values-zh-rCN.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-zh-rHK\values-zh-rHK.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-zh-rTW\values-zh-rTW.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values-zu\values-zu.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values\values.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-ar\values-ar.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-cs\values-cs.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-de\values-de.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-es\values-es.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-fr-rFR\values-fr-rFR.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-it-rIT\values-it-rIT.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-ja\values-ja.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-nl-rNL\values-nl-rNL.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-pl\values-pl.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-pt\values-pt.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-ru\values-ru.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-sk\values-sk.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-tr\values-tr.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values-zh\values-zh.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values\values.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-af\values-af.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-am\values-am.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ar\values-ar.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-az\values-az.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-b+sr+Latn\values-b+sr+Latn.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-be\values-be.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-bg\values-bg.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-bn\values-bn.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-bs\values-bs.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ca\values-ca.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-cs\values-cs.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-da\values-da.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-de\values-de.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-el\values-el.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-en-rAU\values-en-rAU.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-en-rGB\values-en-rGB.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-en-rIN\values-en-rIN.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-es\values-es.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-es-rUS\values-es-rUS.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-et\values-et.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-eu\values-eu.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-fa\values-fa.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-fi\values-fi.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-fr\values-fr.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-fr-rCA\values-fr-rCA.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-gl\values-gl.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-gu\values-gu.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-hi\values-hi.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-hr\values-hr.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-hu\values-hu.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-hy\values-hy.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-in\values-in.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-is\values-is.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-it\values-it.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-iw\values-iw.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ja\values-ja.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ka\values-ka.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-kk\values-kk.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-km\values-km.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-kn\values-kn.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ko\values-ko.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ky\values-ky.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-lo\values-lo.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-lt\values-lt.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-lv\values-lv.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-mk\values-mk.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ml\values-ml.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-mn\values-mn.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-mr\values-mr.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ms\values-ms.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-my\values-my.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-nb\values-nb.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ne\values-ne.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-nl\values-nl.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-pa\values-pa.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-pl\values-pl.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-pt\values-pt.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-pt-rPT\values-pt-rPT.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ro\values-ro.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ru\values-ru.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-si\values-si.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-sk\values-sk.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-sl\values-sl.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-sq\values-sq.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-sr\values-sr.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-sv\values-sv.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-sw\values-sw.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ta\values-ta.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-te\values-te.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-th\values-th.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-tl\values-tl.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-tr\values-tr.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-uk\values-uk.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-ur\values-ur.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-uz\values-uz.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-vi\values-vi.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-zh-rCN\values-zh-rCN.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-zh-rHK\values-zh-rHK.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-zh-rTW\values-zh-rTW.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\values-zu\values-zu.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values\values.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-af\values-af.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-am\values-am.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ar\values-ar.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-az\values-az.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-b+sr+Latn\values-b+sr+Latn.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-be\values-be.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-bg\values-bg.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-bn\values-bn.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-bs\values-bs.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ca\values-ca.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-cs\values-cs.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-da\values-da.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-de\values-de.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-el\values-el.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-en-rAU\values-en-rAU.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-en-rGB\values-en-rGB.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-en-rIN\values-en-rIN.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-es\values-es.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-es-rUS\values-es-rUS.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-et\values-et.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-eu\values-eu.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-fa\values-fa.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-fi\values-fi.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-fr\values-fr.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-fr-rCA\values-fr-rCA.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-gl\values-gl.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-gu\values-gu.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-hi\values-hi.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-hr\values-hr.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-hu\values-hu.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-hy\values-hy.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-in\values-in.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-is\values-is.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-it\values-it.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-iw\values-iw.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ja\values-ja.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ka\values-ka.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-kk\values-kk.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-km\values-km.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-kn\values-kn.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ko\values-ko.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ky\values-ky.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-lo\values-lo.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-lt\values-lt.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-lv\values-lv.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-mk\values-mk.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ml\values-ml.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-mn\values-mn.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-mr\values-mr.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ms\values-ms.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-my\values-my.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-nb\values-nb.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ne\values-ne.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-nl\values-nl.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-pa\values-pa.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-pl\values-pl.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-pt\values-pt.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-pt-rPT\values-pt-rPT.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ro\values-ro.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ru\values-ru.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-si\values-si.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-sk\values-sk.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-sl\values-sl.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-sq\values-sq.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-sr\values-sr.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-sv\values-sv.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-sw\values-sw.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ta\values-ta.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-te\values-te.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-th\values-th.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-tl\values-tl.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-tr\values-tr.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-uk\values-uk.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-ur\values-ur.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-uz\values-uz.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-vi\values-vi.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-zh-rCN\values-zh-rCN.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-zh-rHK\values-zh-rHK.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-zh-rTW\values-zh-rTW.xml
+string;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values-zu\values-zu.xml
+string;obj\Debug\120\res\values\strings.xml
+string;obj\Debug\120\res\values\strings_enums.xml
+string;obj\Debug\120\res\values\strings_library.xml
+string;obj\Debug\120\res\values\strings_models.xml
+string;obj\Debug\120\res\values\strings_player.xml
+string;obj\Debug\120\res\values\strings_settings.xml
+string;obj\Debug\120\res\values\strings_snackbars.xml
+string;obj\Debug\120\res\values\strings_views.xml
+string-array;obj\Debug\120\res\values\arrays.xml
+style;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\values\values.xml
+style;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\values\values.xml
+style;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\values\values.xml
+style;obj\Debug\120\res\values\styles.xml
+style;obj\Debug\120\res\values\styles_appcompat.xml
+style;obj\Debug\120\res\values\styles_material.xml
+style;obj\Debug\120\res\values\styles_preference.xml
+style;obj\Debug\120\res\values\styles_views.xml
+style;obj\Debug\120\res\values\styles_widgets.xml
+style;obj\Debug\120\res\values\themes.xml
+style;obj\Debug\120\res\values-night\themes.xml
+TextView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\layout\exo_playback_control_view.xml
+TextView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\layout\exo_simple_player_view.xml
+TextView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_dialog_color_picker.xml
+TextView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_dialog_presets.xml
+TextView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\layout\exo_playback_control_view.xml
+TextView;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\layout\exo_simple_player_view.xml
+Transition;obj\Debug\120\res\xml\motionscene_nowplayingview.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\drawable-anydpi-v21\exo_media_action_repeat_all.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\drawable-anydpi-v21\exo_media_action_repeat_off.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\4\jl\res\drawable-anydpi-v21\exo_media_action_repeat_one.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_edit_mode_logo.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_fastforward.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_fullscreen_enter.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_fullscreen_exit.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_next.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_pause.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_play.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_previous.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_repeat_all.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_repeat_off.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_repeat_one.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_rewind.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_shuffle_off.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_shuffle_on.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\drawable-anydpi-v21\exo_icon_stop.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\drawable-anydpi-v21\cpv_ic_arrow_right_black_24dp.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\drawable-anydpi-v21\cpv_preset_checked.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\drawable-anydpi-v21\exo_media_action_repeat_all.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\drawable-anydpi-v21\exo_media_action_repeat_off.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\3\jl\res\drawable-anydpi-v21\exo_media_action_repeat_one.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_edit_mode_logo.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_fastforward.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_fullscreen_enter.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_fullscreen_exit.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_next.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_pause.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_play.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_previous.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_repeat_all.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_repeat_off.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_repeat_one.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_rewind.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_shuffle_off.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_shuffle_on.xml
+vector;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\drawable-anydpi-v21\exo_icon_stop.xml
+vector;obj\Debug\120\res\drawable\empty_02dp_height.xml
+vector;obj\Debug\120\res\drawable\empty_02dp_width.xml
+vector;obj\Debug\120\res\drawable\empty_04dp_height.xml
+vector;obj\Debug\120\res\drawable\empty_04dp_width.xml
+vector;obj\Debug\120\res\drawable\empty_08dp_height.xml
+vector;obj\Debug\120\res\drawable\empty_08dp_width.xml
+vector;obj\Debug\120\res\drawable\empty_16dp_width.xml
+vector;obj\Debug\120\res\drawable\icon_general_clock.xml
+vector;obj\Debug\120\res\drawable\icon_general_dots_horizontal.xml
+vector;obj\Debug\120\res\drawable\icon_general_dots_vertical.xml
+vector;obj\Debug\120\res\drawable\icon_general_microphone.xml
+vector;obj\Debug\120\res\drawable\icon_general_nowplaying.xml
+vector;obj\Debug\120\res\drawable\icon_general_plus.xml
+vector;obj\Debug\120\res\drawable\icon_general_x.xml
+vector;obj\Debug\120\res\drawable\icon_library_album.xml
+vector;obj\Debug\120\res\drawable\icon_library_albums.xml
+vector;obj\Debug\120\res\drawable\icon_library_artist.xml
+vector;obj\Debug\120\res\drawable\icon_library_artists.xml
+vector;obj\Debug\120\res\drawable\icon_library_genre.xml
+vector;obj\Debug\120\res\drawable\icon_library_genres.xml
+vector;obj\Debug\120\res\drawable\icon_library_playlist.xml
+vector;obj\Debug\120\res\drawable\icon_library_playlists.xml
+vector;obj\Debug\120\res\drawable\icon_library_queue.xml
+vector;obj\Debug\120\res\drawable\icon_library_search.xml
+vector;obj\Debug\120\res\drawable\icon_library_song.xml
+vector;obj\Debug\120\res\drawable\icon_library_songs.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_addtoplaylist.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_addtoqueue.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_audioeffects.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_back.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_cancel.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_delete.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_editinfo.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_equaliser.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_gotoalbum.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_gotoartist.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_gotogenre.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_gotonowplaying.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_gotoplaylist.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_gotoqueue.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_listoptions.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_movedown.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_movetobottom.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_movetotop.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_moveup.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_options.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_play.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_remove.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_rescan.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_reverselist.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_search.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_select.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_settings.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_share.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_sortlist.xml
+vector;obj\Debug\120\res\drawable\icon_menuoptions_viewinfo.xml
+vector;obj\Debug\120\res\drawable\icon_player_fast_foward.xml
+vector;obj\Debug\120\res\drawable\icon_player_pause.xml
+vector;obj\Debug\120\res\drawable\icon_player_play.xml
+vector;obj\Debug\120\res\drawable\icon_player_repeatmode_norepeat.xml
+vector;obj\Debug\120\res\drawable\icon_player_repeatmode_repeatentirequeue.xml
+vector;obj\Debug\120\res\drawable\icon_player_repeatmode_repeatsong.xml
+vector;obj\Debug\120\res\drawable\icon_player_repeatmode_repeatsubqueue.xml
+vector;obj\Debug\120\res\drawable\icon_player_rewind.xml
+vector;obj\Debug\120\res\drawable\icon_player_shufflemode_noshuffle.xml
+vector;obj\Debug\120\res\drawable\icon_player_shufflemode_shuffleall.xml
+vector;obj\Debug\120\res\drawable\icon_player_shufflemode_shufflesubqueues.xml
+vector;obj\Debug\120\res\drawable\icon_player_shufflemode_shufflesubqueuesongs.xml
+vector;obj\Debug\120\res\drawable\icon_player_skip_backward.xml
+vector;obj\Debug\120\res\drawable\icon_player_skip_foward.xml
+vector;obj\Debug\120\res\drawable\icon_player_stop.xml
+vector;obj\Debug\120\res\drawable\icon_settings.xml
+vector;obj\Debug\120\res\drawable\icon_settings_about.xml
+vector;obj\Debug\120\res\drawable\icon_settings_audio.xml
+vector;obj\Debug\120\res\drawable\icon_settings_audio_bassboost.xml
+vector;obj\Debug\120\res\drawable\icon_settings_audio_environmentalreverb.xml
+vector;obj\Debug\120\res\drawable\icon_settings_audio_equaliser.xml
+vector;obj\Debug\120\res\drawable\icon_settings_audio_loudnessenhancer.xml
+vector;obj\Debug\120\res\drawable\icon_settings_files.xml
+vector;obj\Debug\120\res\drawable\icon_settings_lockscreen.xml
+vector;obj\Debug\120\res\drawable\icon_settings_lyrics.xml
+vector;obj\Debug\120\res\drawable\icon_settings_notification.xml
+vector;obj\Debug\120\res\drawable\icon_settings_system.xml
+vector;obj\Debug\120\res\drawable\icon_settings_userinterface.xml
+vector;obj\Debug\120\res\drawable\icon_settings_userinterface_languages.xml
+vector;obj\Debug\120\res\drawable\icon_settings_userinterface_library.xml
+vector;obj\Debug\120\res\drawable\icon_settings_userinterface_library_album.xml
+vector;obj\Debug\120\res\drawable\icon_settings_userinterface_library_albums.xml
+vector;obj\Debug\120\res\drawable\icon_settings_userinterface_library_artist.xml
+vector;obj\Debug\120\res\drawable\icon_settings_userinterface_library_artists.xml
+vector;obj\Debug\120\res\drawable\icon_settings_userinterface_library_genre.xml
+vector;obj\Debug\120\res\drawable\icon_settings_userinterface_library_genres.xml
+vector;obj\Debug\120\res\drawable\icon_settings_userinterface_library_playlist.xml
+vector;obj\Debug\120\res\drawable\icon_settings_userinterface_library_playlists.xml
+vector;obj\Debug\120\res\drawable\icon_settings_userinterface_library_queue.xml
+vector;obj\Debug\120\res\drawable\icon_settings_userinterface_library_search.xml
+vector;obj\Debug\120\res\drawable\icon_settings_userinterface_library_songs.xml
+vector;obj\Debug\120\res\drawable\icon_settings_userinterface_nowplaying.xml
+vector;obj\Debug\120\res\drawable\icon_settings_userinterface_themes.xml
+vector;obj\Debug\120\res\drawable\icon_xyzu.xml
+vector;obj\Debug\120\res\drawable\splash_screen_icon.xml
+View;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\layout\exo_list_divider.xml
+View;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\layout\exo_playback_control_view.xml
+View;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\7\jl\res\layout\exo_simple_player_view.xml
+View;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Droid\obj\Debug\120\lp\8\jl\res\layout\cpv_dialog_presets.xml
+View;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\layout\exo_list_divider.xml
+View;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\layout\exo_playback_control_view.xml
+View;C:\Users\Thando Ndlovu\Xyclone\Internals\Xyzu\Xamarin\Xyzu.Exoplayer\obj\Debug\120\lp\6\jl\res\layout\exo_simple_player_view.xml
+xyzu.preference.ColorPickerPreference;obj\Debug\120\res\xml\settings_notification.xml
+xyzu.preference.DialogPreference;obj\Debug\120\res\xml\settings_files.xml
+xyzu.preference.DialogPreference;obj\Debug\120\res\xml\settings_system.xml
+xyzu.preference.ListPreference;obj\Debug\120\res\xml\settings_audio_bassboost.xml
+xyzu.preference.ListPreference;obj\Debug\120\res\xml\settings_audio_environmentalreverb.xml
+xyzu.preference.ListPreference;obj\Debug\120\res\xml\settings_audio_equaliser.xml
+xyzu.preference.ListPreference;obj\Debug\120\res\xml\settings_audio_loudnessenhancer.xml
+xyzu.preference.ListPreference;obj\Debug\120\res\xml\settings_notification.xml
+xyzu.preference.ListPreference;obj\Debug\120\res\xml\settings_userinterface_languages.xml
+xyzu.preference.ListPreference;obj\Debug\120\res\xml\settings_userinterface_library.xml
+xyzu.preference.ListPreference;obj\Debug\120\res\xml\settings_userinterface_library_album.xml
+xyzu.preference.ListPreference;obj\Debug\120\res\xml\settings_userinterface_library_albums.xml
+xyzu.preference.ListPreference;obj\Debug\120\res\xml\settings_userinterface_library_artist.xml
+xyzu.preference.ListPreference;obj\Debug\120\res\xml\settings_userinterface_library_artists.xml
+xyzu.preference.ListPreference;obj\Debug\120\res\xml\settings_userinterface_library_genre.xml
+xyzu.preference.ListPreference;obj\Debug\120\res\xml\settings_userinterface_library_genres.xml
+xyzu.preference.ListPreference;obj\Debug\120\res\xml\settings_userinterface_library_playlist.xml
+xyzu.preference.ListPreference;obj\Debug\120\res\xml\settings_userinterface_library_playlists.xml
+xyzu.preference.ListPreference;obj\Debug\120\res\xml\settings_userinterface_library_queue.xml
+xyzu.preference.ListPreference;obj\Debug\120\res\xml\settings_userinterface_library_search.xml
+xyzu.preference.ListPreference;obj\Debug\120\res\xml\settings_userinterface_library_songs.xml
+xyzu.preference.ListPreference;obj\Debug\120\res\xml\settings_userinterface_themes.xml
+xyzu.preference.MultiSelectListPreference;obj\Debug\120\res\xml\settings_files.xml
+xyzu.preference.MultiSelectListPreference;obj\Debug\120\res\xml\settings_userinterface_library.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_about.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_audio.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_audio_bassboost.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_audio_environmentalreverb.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_audio_equaliser.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_audio_loudnessenhancer.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_files.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_lockscreen.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_notification.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_userinterface.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_userinterface_languages.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_userinterface_library.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_userinterface_library_album.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_userinterface_library_albums.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_userinterface_library_artist.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_userinterface_library_artists.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_userinterface_library_genre.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_userinterface_library_genres.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_userinterface_library_playlist.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_userinterface_library_playlists.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_userinterface_library_queue.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_userinterface_library_search.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_userinterface_library_songs.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_userinterface_nowplaying.xml
+xyzu.preference.NavigationBarInsetPreference;obj\Debug\120\res\xml\settings_userinterface_themes.xml
+xyzu.preference.SeekBarPreference;obj\Debug\120\res\xml\settings_audio_bassboost.xml
+xyzu.preference.SeekBarPreference;obj\Debug\120\res\xml\settings_audio_environmentalreverb.xml
+xyzu.preference.SeekBarPreference;obj\Debug\120\res\xml\settings_audio_loudnessenhancer.xml
+xyzu.preference.SeekBarPreference;obj\Debug\120\res\xml\settings_files.xml
+xyzu.preference.SwitchPreference;obj\Debug\120\res\xml\settings_audio_bassboost.xml
+xyzu.preference.SwitchPreference;obj\Debug\120\res\xml\settings_audio_environmentalreverb.xml
+xyzu.preference.SwitchPreference;obj\Debug\120\res\xml\settings_audio_equaliser.xml
+xyzu.preference.SwitchPreference;obj\Debug\120\res\xml\settings_audio_loudnessenhancer.xml
+xyzu.preference.SwitchPreference;obj\Debug\120\res\xml\settings_notification.xml
+xyzu.preference.SwitchPreference;obj\Debug\120\res\xml\settings_userinterface_library_album.xml
+xyzu.preference.SwitchPreference;obj\Debug\120\res\xml\settings_userinterface_library_albums.xml
+xyzu.preference.SwitchPreference;obj\Debug\120\res\xml\settings_userinterface_library_artist.xml
+xyzu.preference.SwitchPreference;obj\Debug\120\res\xml\settings_userinterface_library_artists.xml
+xyzu.preference.SwitchPreference;obj\Debug\120\res\xml\settings_userinterface_library_genre.xml
+xyzu.preference.SwitchPreference;obj\Debug\120\res\xml\settings_userinterface_library_genres.xml
+xyzu.preference.SwitchPreference;obj\Debug\120\res\xml\settings_userinterface_library_playlist.xml
+xyzu.preference.SwitchPreference;obj\Debug\120\res\xml\settings_userinterface_library_playlists.xml
+xyzu.preference.SwitchPreference;obj\Debug\120\res\xml\settings_userinterface_library_songs.xml
+xyzu.preference.SwitchPreference;obj\Debug\120\res\xml\settings_userinterface_nowplaying.xml
+xyzu.preference.ViewPreference;obj\Debug\120\res\xml\settings_audio_equaliser.xml
+xyzu.views.insets.NavigationBarInsetView;obj\Debug\120\res\layout\xyzu_preference_navigationbarinsetpreference.xml
+xyzu.views.insets.NavigationBarInsetView;obj\Debug\120\res\layout\xyzu_view_misc_dialog.xml
+xyzu.views.insets.NavigationBarInsetView;obj\Debug\120\res\layout\xyzu_view_nowplaying.xml
+xyzu.views.insets.NavigationBarInsetView;obj\Debug\120\res\layout\xyzu_view_nowplaying_collapsed.xml
+xyzu.views.insets.NavigationBarInsetView;obj\Debug\120\res\layout\xyzu_view_nowplaying_expanded.xml
+xyzu.views.insets.StatusBarInsetView;obj\Debug\120\res\layout\xyzu_layout_library_drawerlayout.xml
+xyzu.views.insets.StatusBarInsetView;obj\Debug\120\res\layout\xyzu_layout_library_tablayout.xml
+xyzu.views.insets.StatusBarInsetView;obj\Debug\120\res\layout\xyzu_layout_settings.xml
+xyzu.views.insets.StatusBarInsetView;obj\Debug\120\res\layout\xyzu_view_misc_dialog.xml
+xyzu.views.insets.StatusBarInsetView;obj\Debug\120\res\layout\xyzu_view_misc_navigationheader.xml
+xyzu.views.insets.StatusBarInsetView;obj\Debug\120\res\layout\xyzu_view_nowplaying.xml
+xyzu.views.insets.StatusBarInsetView;obj\Debug\120\res\layout\xyzu_view_nowplaying_collapsed.xml
+xyzu.views.insets.StatusBarInsetView;obj\Debug\120\res\layout\xyzu_view_nowplaying_expanded.xml
+xyzu.views.insets.StatusBarInsetView;obj\Debug\120\res\layout\xyzu_view_toolbar_drawerlayout.xml
+xyzu.views.insets.StatusBarInsetView;obj\Debug\120\res\layout\xyzu_view_toolbar_search.xml
+xyzu.views.insets.StatusBarInsetView;obj\Debug\120\res\layout\xyzu_view_toolbar_settings.xml
+xyzu.views.insets.StatusBarInsetView;obj\Debug\120\res\layout\xyzu_view_toolbar_tablayout.xml
+xyzu.views.libraryitem.header.HeaderLibraryItemsView;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_album.xml
+xyzu.views.libraryitem.header.HeaderLibraryItemsView;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_artist.xml
+xyzu.views.libraryitem.header.HeaderLibraryItemsView;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_genre.xml
+xyzu.views.libraryitem.header.HeaderLibraryItemsView;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_playlist.xml
+xyzu.views.nowplaying.NowPlayingView;obj\Debug\120\res\layout\xyzu_layout_library_drawerlayout.xml
+Xyzu.Views.NowPlaying.NowPlayingView;obj\Debug\120\res\layout\xyzu_layout_library_tablayout.xml
+xyzu.views.option.OptionsLibraryListView;obj\Debug\120\res\layout\xyzu_view_libraryitem_header_libraryitems.xml
+xyzu.views.toolbar.ToolbarDrawerView;obj\Debug\120\res\layout\xyzu_layout_library_drawerlayout.xml
+xyzu.views.toolbar.ToolbarSearchView;obj\Debug\120\res\layout\xyzu_layout_library_drawerlayout.xml
+xyzu.views.toolbar.ToolbarSearchView;obj\Debug\120\res\layout\xyzu_layout_library_tablayout.xml
+xyzu.views.toolbar.ToolbarSettingsView;obj\Debug\120\res\layout\xyzu_layout_settings.xml
+xyzu.views.toolbar.ToolbarTabLayoutView;obj\Debug\120\res\layout\xyzu_layout_library_tablayout.xml
+xyzu.widgets.recyclerviews.AlbumsRecyclerView;obj\Debug\120\res\layout\xyzu_view_library_albums.xml
+xyzu.widgets.recyclerviews.ArtistsRecyclerView;obj\Debug\120\res\layout\xyzu_view_library_artists.xml
+xyzu.widgets.recyclerviews.GenresRecyclerView;obj\Debug\120\res\layout\xyzu_view_library_genres.xml
+xyzu.widgets.recyclerviews.ModelsRecyclerView;obj\Debug\120\res\layout\xyzu_view_library_artist.xml
+xyzu.widgets.recyclerviews.ModelsRecyclerView;obj\Debug\120\res\layout\xyzu_view_library_search.xml
+xyzu.widgets.recyclerviews.PlaylistsRecyclerView;obj\Debug\120\res\layout\xyzu_view_library_playlists.xml
+xyzu.widgets.recyclerviews.RecursiveItemsRecyclerView;obj\Debug\120\res\layout\xyzu_view_setting_directoryitem.xml
+xyzu.widgets.recyclerviews.SimpleHorizontalRecyclerView;obj\Debug\120\res\layout\xyzu_view_nowplaying.xml
+xyzu.widgets.recyclerviews.SimpleHorizontalRecyclerView;obj\Debug\120\res\layout\xyzu_view_nowplaying_collapsed.xml
+xyzu.widgets.recyclerviews.SimpleHorizontalRecyclerView;obj\Debug\120\res\layout\xyzu_view_nowplaying_expanded.xml
+xyzu.widgets.recyclerviews.SimpleHorizontalRecyclerView;obj\Debug\120\res\layout\xyzu_view_option_librarylist.xml
+xyzu.widgets.recyclerviews.SimpleHorizontalRecyclerView;obj\Debug\120\res\layout\xyzu_view_option_menu.xml
+xyzu.widgets.recyclerviews.SimpleVerticalRecyclerView;obj\Debug\120\res\layout\xyzu_view_option_createandview.xml
+xyzu.widgets.recyclerviews.SongsRecyclerView;obj\Debug\120\res\layout\xyzu_view_library_album.xml
+xyzu.widgets.recyclerviews.SongsRecyclerView;obj\Debug\120\res\layout\xyzu_view_library_genre.xml
+xyzu.widgets.recyclerviews.SongsRecyclerView;obj\Debug\120\res\layout\xyzu_view_library_playlist.xml
+xyzu.widgets.recyclerviews.SongsRecyclerView;obj\Debug\120\res\layout\xyzu_view_library_queue.xml
+xyzu.widgets.recyclerviews.SongsRecyclerView;obj\Debug\120\res\layout\xyzu_view_library_songs.xml
